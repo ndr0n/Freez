@@ -15,7 +15,7 @@
 #X obj 192 346 /;
 #X msg 192 324 1;
 #X obj 192 371 * 1;
-#X obj 46 147 tgl 15 0 empty empty Freeze -35 7 0 10 #fcfcfc #000000
+#X obj 46 147 tgl 15 0 empty empty Freez -35 7 0 10 #fcfcfc #000000
 #000000 0 1;
 #X obj 192 485 tabread4~ Buffer;
 #X obj 331 199 +~;
