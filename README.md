@@ -2,4 +2,4 @@
 
 ![Freez](Freez.png)
 
-Looper / Freeze / Time Manipulation / Delay VST3 Audio Effect
+Looper / Freeze / Delay VST3 Audio Effect
